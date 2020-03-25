@@ -2,4 +2,4 @@
 
 Stanford Machine Learning Course on Coursera.
 
-Contains Coursera Machine Learning course programming assignments. 
+This repository contains programming assignments of **Coursera Machine Learning** course. 
